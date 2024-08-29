@@ -8,4 +8,3 @@ As principais funcionalidades incluem:
 - *Exclusão de Usuários:* Remove um usuário do sistema, atualizando a lista de usuários.
 - *Cadastro Adicional:* Permite adicionar novos usuários além dos inicialmente cadastrados.
 
-O código usa alocação dinâmica de memória para gerenciar a lista de usuários, garantindo flexibilidade no número de usuários que podem ser cadastrados. Além disso, o texto "Sistema Cadastro de Usuário" é exibido em vermelho, destacando o título do programa na interface de linha de comando.
